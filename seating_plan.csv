@@ -1,0 +1,201 @@
+Hall,Row,Seat,Roll No,Branch,Paper
+Hall A,1,1,CE-006,CE,Surveying
+Hall A,1,2,ECE-038,ECE,Signals & Systems
+Hall A,1,3,CSE-024,CSE,Data Structures
+Hall A,1,4,ECE-004,ECE,Signals & Systems
+Hall A,1,6,EE-043,EE,Circuit Theory
+Hall A,1,7,ME-019,ME,Thermodynamics
+Hall A,1,8,CSE-023,CSE,Data Structures
+Hall A,2,1,ECE-013,ECE,Signals & Systems
+Hall A,2,2,CSE-022,CSE,Data Structures
+Hall A,2,3,ME-007,ME,Thermodynamics
+Hall A,2,4,CSE-007,CSE,Data Structures
+Hall A,2,6,CE-015,CE,Surveying
+Hall A,2,7,ECE-033,ECE,Signals & Systems
+Hall A,2,8,CE-012,CE,Surveying
+Hall A,3,1,ME-001,ME,Thermodynamics
+Hall A,3,2,EE-042,EE,Circuit Theory
+Hall A,3,3,CSE-032,CSE,Data Structures
+Hall A,3,4,ECE-048,ECE,Signals & Systems
+Hall A,3,6,ECE-051,ECE,Signals & Systems
+Hall A,3,7,CSE-028,CSE,Data Structures
+Hall A,3,8,EE-007,EE,Circuit Theory
+Hall A,4,1,ECE-029,ECE,Signals & Systems
+Hall A,4,2,CE-018,CE,Surveying
+Hall A,4,4,ME-009,ME,Thermodynamics
+Hall A,4,5,ECE-043,ECE,Signals & Systems
+Hall A,4,6,EE-017,EE,Circuit Theory
+Hall A,4,7,ECE-030,ECE,Signals & Systems
+Hall A,4,8,ME-018,ME,Thermodynamics
+Hall A,5,3,EE-024,EE,Circuit Theory
+Hall A,5,4,CSE-045,CSE,Data Structures
+Hall A,5,7,ME-031,ME,Thermodynamics
+Hall A,5,8,CSE-026,CSE,Data Structures
+Hall A,6,1,EE-020,EE,Circuit Theory
+Hall A,6,2,ECE-007,ECE,Signals & Systems
+Hall A,6,3,CSE-006,CSE,Data Structures
+Hall A,6,4,EE-005,EE,Circuit Theory
+Hall A,6,5,ECE-014,ECE,Signals & Systems
+Hall A,6,6,CSE-038,CSE,Data Structures
+Hall A,6,7,EE-006,EE,Circuit Theory
+Hall A,6,8,ECE-040,ECE,Signals & Systems
+Hall B,1,1,EE-030,EE,Circuit Theory
+Hall B,1,3,CSE-035,CSE,Data Structures
+Hall B,1,4,ME-014,ME,Thermodynamics
+Hall B,1,5,ECE-047,ECE,Signals & Systems
+Hall B,1,6,CSE-002,CSE,Data Structures
+Hall B,1,7,ME-016,ME,Thermodynamics
+Hall B,1,8,CE-020,CE,Surveying
+Hall B,2,1,ECE-028,ECE,Signals & Systems
+Hall B,2,2,CE-004,CE,Surveying
+Hall B,2,3,ECE-053,ECE,Signals & Systems
+Hall B,2,4,CSE-018,CSE,Data Structures
+Hall B,2,6,ECE-001,ECE,Signals & Systems
+Hall B,2,7,CE-016,CE,Surveying
+Hall B,2,8,CSE-036,CSE,Data Structures
+Hall B,3,1,ME-012,ME,Thermodynamics
+Hall B,3,2,ECE-002,ECE,Signals & Systems
+Hall B,3,3,CE-001,CE,Surveying
+Hall B,3,4,EE-035,EE,Circuit Theory
+Hall B,3,5,ECE-018,ECE,Signals & Systems
+Hall B,3,6,CSE-031,CSE,Data Structures
+Hall B,3,7,EE-012,EE,Circuit Theory
+Hall B,4,1,EE-041,EE,Circuit Theory
+Hall B,4,2,CSE-016,CSE,Data Structures
+Hall B,4,3,ECE-009,ECE,Signals & Systems
+Hall B,4,5,CSE-041,CSE,Data Structures
+Hall B,4,6,ECE-042,ECE,Signals & Systems
+Hall B,4,7,CSE-019,CSE,Data Structures
+Hall B,4,8,ME-024,ME,Thermodynamics
+Hall B,5,1,ECE-011,ECE,Signals & Systems
+Hall B,5,2,ME-026,ME,Thermodynamics
+Hall B,5,3,EE-026,EE,Circuit Theory
+Hall B,5,4,ME-004,ME,Thermodynamics
+Hall B,5,5,EE-008,EE,Circuit Theory
+Hall B,5,6,CSE-011,CSE,Data Structures
+Hall B,5,8,EE-034,EE,Circuit Theory
+Hall B,6,2,CSE-044,CSE,Data Structures
+Hall B,6,4,EE-019,EE,Circuit Theory
+Hall B,6,6,ECE-031,ECE,Signals & Systems
+Hall B,6,7,EE-044,EE,Circuit Theory
+Hall B,6,8,ECE-050,ECE,Signals & Systems
+Hall C,1,1,EE-033,EE,Circuit Theory
+Hall C,1,2,CSE-012,CSE,Data Structures
+Hall C,1,3,ECE-037,ECE,Signals & Systems
+Hall C,1,4,EE-032,EE,Circuit Theory
+Hall C,1,5,ECE-021,ECE,Signals & Systems
+Hall C,1,6,ME-022,ME,Thermodynamics
+Hall C,1,8,ECE-026,ECE,Signals & Systems
+Hall C,2,1,CE-010,CE,Surveying
+Hall C,2,4,CSE-015,CSE,Data Structures
+Hall C,2,5,EE-040,EE,Circuit Theory
+Hall C,2,7,CSE-003,CSE,Data Structures
+Hall C,3,1,CSE-008,CSE,Data Structures
+Hall C,3,2,ME-011,ME,Thermodynamics
+Hall C,3,3,ECE-052,ECE,Signals & Systems
+Hall C,3,4,CE-019,CE,Surveying
+Hall C,3,5,ECE-006,ECE,Signals & Systems
+Hall C,3,6,EE-010,EE,Circuit Theory
+Hall C,3,7,ECE-049,ECE,Signals & Systems
+Hall C,3,8,EE-003,EE,Circuit Theory
+Hall C,4,1,ME-020,ME,Thermodynamics
+Hall C,4,2,ECE-044,ECE,Signals & Systems
+Hall C,4,3,ME-010,ME,Thermodynamics
+Hall C,4,5,CSE-005,CSE,Data Structures
+Hall C,4,6,ECE-045,ECE,Signals & Systems
+Hall C,4,7,CE-002,CE,Surveying
+Hall C,4,8,CSE-040,CSE,Data Structures
+Hall C,5,1,EE-022,EE,Circuit Theory
+Hall C,5,2,ME-021,ME,Thermodynamics
+Hall C,5,3,CSE-033,CSE,Data Structures
+Hall C,5,4,EE-038,EE,Circuit Theory
+Hall C,5,6,CSE-001,CSE,Data Structures
+Hall C,5,7,ECE-032,ECE,Signals & Systems
+Hall C,6,1,ECE-027,ECE,Signals & Systems
+Hall C,6,2,EE-027,EE,Circuit Theory
+Hall C,6,3,ME-006,ME,Thermodynamics
+Hall C,6,4,CE-013,CE,Surveying
+Hall C,6,5,CSE-047,CSE,Data Structures
+Hall C,6,6,EE-029,EE,Circuit Theory
+Hall C,6,7,CSE-025,CSE,Data Structures
+Hall C,6,8,ECE-016,ECE,Signals & Systems
+Hall D,1,2,ECE-005,ECE,Signals & Systems
+Hall D,1,3,CSE-042,CSE,Data Structures
+Hall D,1,4,EE-014,EE,Circuit Theory
+Hall D,1,6,CSE-017,CSE,Data Structures
+Hall D,1,7,ME-025,ME,Thermodynamics
+Hall D,1,8,ECE-015,ECE,Signals & Systems
+Hall D,2,1,ECE-054,ECE,Signals & Systems
+Hall D,2,2,ME-030,ME,Thermodynamics
+Hall D,2,3,ECE-056,ECE,Signals & Systems
+Hall D,2,4,CSE-043,CSE,Data Structures
+Hall D,2,6,ECE-055,ECE,Signals & Systems
+Hall D,2,8,ME-002,ME,Thermodynamics
+Hall D,3,1,ME-017,ME,Thermodynamics
+Hall D,3,2,ECE-019,ECE,Signals & Systems
+Hall D,3,3,CSE-027,CSE,Data Structures
+Hall D,3,4,EE-037,EE,Circuit Theory
+Hall D,3,5,ECE-008,ECE,Signals & Systems
+Hall D,3,6,CE-014,CE,Surveying
+Hall D,3,8,EE-028,EE,Circuit Theory
+Hall D,4,1,EE-018,EE,Circuit Theory
+Hall D,4,3,EE-009,EE,Circuit Theory
+Hall D,4,4,CSE-009,CSE,Data Structures
+Hall D,4,5,ME-015,ME,Thermodynamics
+Hall D,4,6,CSE-048,CSE,Data Structures
+Hall D,4,7,CE-003,CE,Surveying
+Hall D,4,8,ECE-012,ECE,Signals & Systems
+Hall D,5,1,CSE-014,CSE,Data Structures
+Hall D,5,2,EE-001,EE,Circuit Theory
+Hall D,5,3,ME-003,ME,Thermodynamics
+Hall D,5,4,EE-021,EE,Circuit Theory
+Hall D,5,6,ECE-036,ECE,Signals & Systems
+Hall D,5,7,CSE-004,CSE,Data Structures
+Hall D,5,8,EE-025,EE,Circuit Theory
+Hall D,6,1,ECE-003,ECE,Signals & Systems
+Hall D,6,2,CE-009,CE,Surveying
+Hall D,6,3,EE-031,EE,Circuit Theory
+Hall D,6,4,CSE-029,CSE,Data Structures
+Hall D,6,5,ECE-023,ECE,Signals & Systems
+Hall D,6,6,ME-008,ME,Thermodynamics
+Hall D,6,7,CE-005,CE,Surveying
+Hall E,1,1,CSE-013,CSE,Data Structures
+Hall E,1,2,EE-023,EE,Circuit Theory
+Hall E,1,3,ME-027,ME,Thermodynamics
+Hall E,1,4,CSE-046,CSE,Data Structures
+Hall E,1,5,EE-011,EE,Circuit Theory
+Hall E,1,6,ECE-017,ECE,Signals & Systems
+Hall E,1,7,CSE-030,CSE,Data Structures
+Hall E,1,8,EE-016,EE,Circuit Theory
+Hall E,2,1,CE-007,CE,Surveying
+Hall E,2,2,ME-023,ME,Thermodynamics
+Hall E,2,3,ECE-035,ECE,Signals & Systems
+Hall E,2,5,ECE-041,ECE,Signals & Systems
+Hall E,2,6,EE-013,EE,Circuit Theory
+Hall E,2,7,ME-029,ME,Thermodynamics
+Hall E,2,8,CE-011,CE,Surveying
+Hall E,3,1,EE-015,EE,Circuit Theory
+Hall E,3,3,ME-028,ME,Thermodynamics
+Hall E,3,4,EE-002,EE,Circuit Theory
+Hall E,3,5,CE-008,CE,Surveying
+Hall E,3,6,ECE-020,ECE,Signals & Systems
+Hall E,4,1,ME-032,ME,Thermodynamics
+Hall E,4,2,ECE-024,ECE,Signals & Systems
+Hall E,4,3,EE-036,EE,Circuit Theory
+Hall E,4,4,CSE-034,CSE,Data Structures
+Hall E,4,5,ECE-046,ECE,Signals & Systems
+Hall E,4,6,EE-039,EE,Circuit Theory
+Hall E,4,8,CSE-020,CSE,Data Structures
+Hall E,5,1,CSE-021,CSE,Data Structures
+Hall E,5,2,ME-005,ME,Thermodynamics
+Hall E,5,3,CSE-010,CSE,Data Structures
+Hall E,5,4,CE-017,CE,Surveying
+Hall E,5,6,ECE-039,ECE,Signals & Systems
+Hall E,5,7,CSE-039,CSE,Data Structures
+Hall E,5,8,ECE-034,ECE,Signals & Systems
+Hall E,6,1,ECE-025,ECE,Signals & Systems
+Hall E,6,3,ME-013,ME,Thermodynamics
+Hall E,6,4,ECE-010,ECE,Signals & Systems
+Hall E,6,5,CSE-037,CSE,Data Structures
+Hall E,6,7,ECE-022,ECE,Signals & Systems
+Hall E,6,8,EE-004,EE,Circuit Theory
